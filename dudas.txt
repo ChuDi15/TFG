@@ -1,0 +1,48 @@
+como hacer que al clicar en valorar en un juego, se cree una nueva pagina con
+la url del juego para que las opiniones sobre ese juego sean unicas
+
+como cifrar las contraseñas en codeginiter // usar funcion https://www.w3schools.com/php/func_string_sha1.asp
+
+como configurar los permisos para que los usuarios registrados puedan valorar
+
+alguna forma de que en el registro los usuarios autentiquen su correo
+
+como hacer un sistema de valoraciones
+
+
+
+campo verificado set a 0
+
+
+
+
+
+
+
+Se ha configurado el archivo config.php para añadir nuestro dominio a la 
+funcion base_url
+
+Se ha configurado el htaccess para poder redireccionar entre paginas web.
+
+Seha configurado el config/routes.php
+
+Se ha definido la constante DOMAIN en la carpeta config/constants.php	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
